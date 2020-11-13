@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "692796237285",
+    "firebase_url": "https://parduspoint-fb934.firebaseio.com",
+    "project_id": "parduspoint-fb934",
+    "storage_bucket": "parduspoint-fb934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692796237285:android:794b4ffa59062eea3e3b0c",
+        "android_client_info": {
+          "package_name": "com.example.pardus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692796237285-5ok98s4po2r2l42r99elfat1pvckl8uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pardus",
+            "certificate_hash": "0a57b152d30889104758028d9fe04b275cdab37f"
+          }
+        },
+        {
+          "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4c2Ih6qYS5dkxXFr8rzUFRmFCqaqZcSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692796237285:android:be3c57d0e72402a13e3b0c",
+        "android_client_info": {
+          "package_name": "com.example.parduspoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692796237285-qaoo9vk0gngciqgvn390tb1e3e8b7fs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parduspoint",
+            "certificate_hash": "c334d4a05bacb5c7ed2c2ec4c2b565a39a1aa14c"
+          }
+        },
+        {
+          "client_id": "692796237285-m74ekcrq98j8li09p0peqpul3ai21at7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parduspoint",
+            "certificate_hash": "d4b5f9ff8f760b964605a5a83af19cdccc289b18"
+          }
+        },
+        {
+          "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4c2Ih6qYS5dkxXFr8rzUFRmFCqaqZcSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692796237285:android:d447c7799081f0d43e3b0c",
+        "android_client_info": {
+          "package_name": "com.lmc.firebasepardus1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692796237285-0ajdaad2a5p5i8pvi8raah6jtfvgso8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lmc.firebasepardus1",
+            "certificate_hash": "c334d4a05bacb5c7ed2c2ec4c2b565a39a1aa14c"
+          }
+        },
+        {
+          "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4c2Ih6qYS5dkxXFr8rzUFRmFCqaqZcSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692796237285:android:060847f8dfaa90953e3b0c",
+        "android_client_info": {
+          "package_name": "com.lmc.maduploadfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692796237285-1d95lv24iukthmhtt5sllv94ir76gsv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lmc.maduploadfirebase",
+            "certificate_hash": "c334d4a05bacb5c7ed2c2ec4c2b565a39a1aa14c"
+          }
+        },
+        {
+          "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4c2Ih6qYS5dkxXFr8rzUFRmFCqaqZcSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692796237285-qu8jhee0s19ro8dlck926h3et9n13o6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
